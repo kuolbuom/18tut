@@ -1,0 +1,17 @@
+.hide {
+  position: absolute;
+  left: -99999px;
+}
+.valid {
+  color: green;
+  display: inline;
+  font-size: 18px;
+}
+.invalid {
+  color: red;
+  display: inline;
+  font-size: 18px;
+}
+.offscreen {
+  display: none;
+}
