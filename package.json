@@ -2,7 +2,7 @@
   "name": "18tut",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kuolbuom.github.io/18tut",
+  "/": "https://kuolbuom.github.io/18tut",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
